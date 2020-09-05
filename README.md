@@ -153,7 +153,7 @@ Finalmente, queremos destacar que Radar COVID es un elemento esencial dentro de 
     
 55.  Prof. Dr. Susana Navas Navarro. Universitat Autònoma de Barcelona
     
-56.  Prof. Dr. Juan Luis Paniagua Soto, Catedrático emérito de la [Univ](https://www.ucm.es/)ersidad Complutense de Madrid
+56.  Prof. Dr. Juan Luis Paniagua Soto, Catedrático emérito de la Universidad Complutense de Madrid
     
 57.  Prof. Dr. Sergio Pastrana Portillo, Universidad Carlos III de Madrid y University of Cambridge (Reino Unido)
     
