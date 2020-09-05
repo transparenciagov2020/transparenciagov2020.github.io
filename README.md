@@ -211,6 +211,8 @@ Finalmente, queremos destacar que Radar COVID es un elemento esencial dentro de 
     
 84.  Prof. Dr. Raquel Xalabarder, Universitat Oberta de Catalunya
 
+<hr>
+
 ## Súmate al manifiesto
 
 Si perteneces a la comunidad académica española y quieres sumarte a este manifiesto, comparte por favor tu nombre, apellidos e institucion académica en el siguiente formulario: [https://docs.google.com/forms/d/e/1FAIpQLSd1o_23n55D_IPeqTQmMHPxJTvx6659ALsy4ru4tBq5AQ3Vqg/viewform](https://docs.google.com/forms/d/e/1FAIpQLSd1o_23n55D_IPeqTQmMHPxJTvx6659ALsy4ru4tBq5AQ3Vqg/viewform). 
