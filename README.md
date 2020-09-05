@@ -2,12 +2,19 @@
 
 # Manifiesto en favor de la transparencia en desarrollos de software públicos
 
+* [Resumen](#resumen)
 * [Manifiesto](#manifiesto)
 * [Firmas](#firmas)
 * [Súmate al manifiesto ](#súmate-al-manifiesto)
 
-## Manifiesto
 
+## Resumen
+
+Este manifiesto expone la necesidad de seguir una serie de pautas en desarrollos de software destinados a servir al público, con Radar COVID como ejemplo. Radar COVID es uno de los primeros ejemplos de la nueva generación de infraestructura pública. Estas pautas describen elementos imprescindibles para implementar procesos abiertos que permitan a la sociedad participar en la integración de nuevas tecnologías en la administración desarrolladas con dinero público. Entre otros, la publicación de documentación y código que provean a la comunidad científica y la sociedad civil de la capacidad de escrutinio necesaria para identificar puntos a mejorar y contribuir a desarrollar y desplegar soluciones digitales democráticas, inclusivas y conformes a los más altos estándares. La infraestructura pública es parte del bien común de una sociedad. Mediante ella se ordena y estructura la sociedad, creando las reglas de acceso y disponibilidad a servicios sociales. Su legitimidad depende de su grado de inclusividad y democratización. La implantación de este tipo de estándares es especialmente importante en estos momentos en que se están automatizando y dejando en manos de programas informáticos procesos que afectan directamente a las personas y a la sociedad. Éstos deben ser monitorizados para evitar resultados no deseados.
+
+<hr>
+
+## Manifiesto
 
 Los abajo firmantes, miembros de la comunidad académica española, manifiestan:
 
