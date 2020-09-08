@@ -246,7 +246,7 @@ Finalmente, queremos destacar que Radar COVID es un elemento esencial dentro de 
 
 98. Prof. Dr. Juan Antonio Gómez Pulido, Universidad de Extremadura
 
-99. Sergio Gómez Bachiller
+99. Sergio Gómez Bachiller, Universidad de Córdoba
 
 100. Dr. David Gómez-Ullate Oteiza, Universidad de Cádiz
 
