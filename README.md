@@ -66,389 +66,439 @@ Finalmente, queremos destacar que Radar COVID es un elemento esencial dentro de 
 
 8. Prof. Dr. Antonio Alonso Ayuso, Universidad Rey Juan Carlos
 
-9. Prof. Dra. María Alpuente, Universidad Politécnica de Valencia
+9. Dr. Bartomeu Alorda Ladaria, Universitat de les Illes Balears
 
-10. Prof. Dr. Juan Antonio Álvarez García, Universidad de Sevilla
+10. Prof. Dra. María Alpuente, Universidad Politécnica de Valencia
 
-11. Dr. Pablo Aragón, Universitat Pompeu Fabra
+11. Prof. Dr. Juan Antonio Álvarez García, Universidad de Sevilla
 
-12. Prof. Dra. Mª Aránzazu Moretón Toquero, Universidad de Valladolid
+12. Dr. Pablo Aragón, Universitat Pompeu Fabra
 
-13. Javier Armentia Fructuoso, Planetario de Pamplona
+13. Prof. Dra. Mª Aránzazu Moretón Toquero, Universidad de Valladolid
 
-14. Dr. David Arroyo Guardeño, Instituto de Tecnologías Físicas y de la Información - CSIC
+14. Javier Armentia Fructuoso, Planetario de Pamplona
 
-15. Prof. Dr. David Atienza Alonso, École Polytechnique Fédérale de Lausanne (Suiza)
+15. Dr. David Arroyo Guardeño, Instituto de Tecnologías Físicas y de la Información - CSIC
 
-16. Prof. Dra. Nieves Atienza Martínez, Universidad de Sevilla
+16. Prof. Dr. David Atienza Alonso, École Polytechnique Fédérale de Lausanne (Suiza)
 
-17. Prof. Dra. Mónica Arenas Ramiro, Universidad de Alcalá 
+17. Prof. Dra. Nieves Atienza Martínez, Universidad de Sevilla
 
-18. Prof. Dr. Txetxu Ausín, Instituto de Filosofía - CSIC
+18. Prof. Dra. Mónica Arenas Ramiro, Universidad de Alcalá 
 
-19. Prof. Dr. José L. Aznarte, Universidad Nacional de Educación a Distancia - UNED
+19. Prof. Dr. Txetxu Ausín, Instituto de Filosofía - CSIC
 
-20. Prof. Dr. Ricardo Baeza-Yates, Northeastern University - Silicon Valley (Estados Unidos) & Universitat Pompeu Fabra
+20. Prof. Dr. José L. Aznarte, Universidad Nacional de Educación a Distancia - UNED
 
-21. Prof. Dr. Santiago Bello Paredes, Universidad de Burgos
+21. Prof. Dr. Ricardo Baeza-Yates, Northeastern University - Silicon Valley (Estados Unidos) & Universitat Pompeu Fabra
 
-22. Prof. Dra. Marta Beltrán Pardo, Universidad Rey Juan Carlos
+22. Prof. Dra. Beatriz Barros Blanco, Universidad de Málaga
 
-23. Dra. Juani Bermejo-Vega, Universidad de Granada
+23. Prof. Dr. Santiago Bello Paredes, Universidad de Burgos
 
-24. Prof. Dra. María Bermudez-Edo, Universidad de Granada
+24. Prof. Dra. Marta Beltrán Pardo, Universidad Rey Juan Carlos
 
-25. Prof. Dr. Josep Blat, Universitat Pompeu Fabra
+25. Prof. Dr. Fernando Benito Picazo, Universidad de Málaga
 
-26. Prof. Dr. Federico Botella, Universidad Miguel Hernández de Elche
+26. Dra. Juani Bermejo-Vega, Universidad de Granada
 
-27. Prof. Dr. Vicent Botti, Universidad Politécnica de Valencia
+27. Prof. Dra. María Bermudez-Edo, Universidad de Granada
 
-28. Prof. Dr. Andrés Boix Palop, Universitat de València
+28. Prof. Dr. Josep Blat, Universitat Pompeu Fabra
 
-29. Prof. Uwe Brauer, Universidad Complutense de Madrid
+29. Prof. Dr. Federico Botella, Universidad Miguel Hernández de Elche
 
-30. Dr. Vanni Brusadin, Universitat de Barcelona 
+30. Prof. Dr. Vicent Botti, Universidad Politécnica de Valencia
 
-31. Prof. Dr. Antonio J. Caamaño, Universidad Rey Juan Carlos
+31. Prof. Dr. Andrés Boix Palop, Universitat de València
 
-32. Prof. Dr. Juan Caballero, Instituto IMDEA Software
+32. Prof. Uwe Brauer, Universidad Complutense de Madrid
 
-33. Prof. Dr. Jordi Cabot, Universitat Oberta de Catalunya
+33. Dr. Vanni Brusadin, Universitat de Barcelona 
 
-34. Prof. Dr. Stefano Cabras, Universidad Carlos III de Madrid 
+34. Prof. Dr. Jacques Bulchand Gidumal, Universidad de Las Palmas de Gran Canaria
 
-35. Prof. Dr. Daniel Cagigas Muñiz, Universidad de Sevilla
+35. Prof. Dr. Antonio J. Caamaño, Universidad Rey Juan Carlos
 
-36. Prof. Dr. Patrici Calvo, Universitat Jaume I
+36. Prof. Dr. Juan Caballero, Instituto IMDEA Software
 
-37. Dr. Cédric M. Campos, Universidad Rey Juan Carlos
+37. Prof. Dr. Jordi Cabot, Universitat Oberta de Catalunya
 
-38. Prof. Dr. Javier Campos Laclaustra, Universidad de Zaragoza
+38. Prof. Dr. Stefano Cabras, Universidad Carlos III de Madrid 
 
-39. Prof. Dr. Antonio Cañabate Carmona, Universitat Politècnica de Catalunya
+39. Prof. Dr. Daniel Cagigas Muñiz, Universidad de Sevilla
 
-40. Prof. Dr. Josep Cañabate Pérez, Universitat Autònoma de Barcelona
+40. Prof. Dr. Patrici Calvo, Universitat Jaume I
 
-41. Prof. Dra. Maria Casado, Observatori de Bioètica i Dret, Càtedra Unesco de Bioètica, Universitat de Barcelona
+41. Dr. Cédric M. Campos, Universidad Rey Juan Carlos
 
-42. Prof. Dr. Ignacio Cascos Fernández, Universidad Carlos III de Madrid
+42. Prof. Dr. Javier Campos Laclaustra, Universidad de Zaragoza
 
-43. Prof. Dr. Ignacio Cascudo Pueyo, Instituto IMDEA Software
+43. Prof. Dr. Antonio Cañabate Carmona, Universitat Politècnica de Catalunya
 
-44. Prof. Dra. Cecilia Castaño Collado, Universidad Complutense de Madrid
+44. Prof. Dr. Josep Cañabate Pérez, Universitat Autònoma de Barcelona
 
-45. Prof. Dr. Jorge Castellanos Claramunt. Universidad de Valencia
+45. Prof. Dra. María Jose Carazo Liébana, Universidad de Jaén
 
-46. Prof. Dra. Eva M. Castro Barbero, Universidad Rey Juan Carlos
+46. Prof. Dr. Gabriel Cardona Juanals, Universitat de les Illes Balears
 
-47. Prof. Dr. Manuel Carro, Instituto IMDEA Software & Universidad Politécnica de Madrid
+47. Prof. Dra. Maria Casado, Observatori de Bioètica i Dret, Càtedra Unesco de Bioètica, Universitat de Barcelona
 
-48. Prof. Dra. María Eugenia Castellanos Nueda, Universidad Rey Juan Carlos.
+48. Dr. Daniel Cascado Caballero, Universidad de Sevilla
 
-49. Prof. Dr. Agustí Cerrillo i Martínez, Universitat Oberta de Catalunya
+49. Prof. Dr. Ignacio Cascos Fernández, Universidad Carlos III de Madrid
 
-50. Prof. Dr. Oscar Corcho, Universidad Politécnica de Madrid
+50. Prof. Dr. Ignacio Cascudo Pueyo, Instituto IMDEA Software
 
-51. Prof. Dr. Alberto Corsín Jiménez, Consejo Superior de Investigaciones Científicas - CSIC
+51. Prof. Dra. Cecilia Castaño Collado, Universidad Complutense de Madrid
 
-52. Prof. Dr. Ulises Cortés, Universitat Politècnica de Catalunya
+52. Prof. Dr. Jorge Castellanos Claramunt. Universidad de Valencia
 
-53. Prof. Dr. Enrique Costa Montenegro, Universidade de Vigo
+53. Prof. Dr. Carlos Castillo, Universitat Pompeu Fabra
 
-54. Prof. Dr. Lorenzo Cotino Hueso, Universidad de Valencia
+54. Prof. Dra. Eva M. Castro Barbero, Universidad Rey Juan Carlos
 
-55. Prof. Dr. J. Ignacio Criado, Universidad Autónoma de Madrid
+55. Prof. Dr. Manuel Carro, Instituto IMDEA Software & Universidad Politécnica de Madrid
 
-56. Prof. Dr. Iñigo Cuiñas, Universidade de Vigo
+56. Prof. Dra. María Eugenia Castellanos Nueda, Universidad Rey Juan Carlos.
 
-57. Prof. Dra. Vanesa Daza, Universitat Pompeu Fabra
+57. Dra. Rosa Catalán Campos, Universitat de Barcelona
 
-58. Prof. Dra. Itziar de Lecuona, Observatori de Bioètica i Dret, Càtedra Unesco de Bioètica, Universitat de Barcelona
+58. Prof. Dr. Agustí Cerrillo i Martínez, Universitat Oberta de Catalunya
 
-59. Prof. Dra. Claudia Díaz, KU Leuven (Bélgica)
+59. Prof. Dr. Oscar Corcho, Universidad Politécnica de Madrid
 
-60. Prof. Dra. Paloma Díaz Pérez, Universidad Carlos III de Madrid
+60. Dr. Adrián Cordón López, Hospital Regional Universitario de Málaga
 
-61. Prof. Dr. Juan Manuel Dodero Beardo, Universidad de Cádiz
+61. Prof. Dr. Alberto Corsín Jiménez, Consejo Superior de Investigaciones Científicas - CSIC
 
-62. Prof. Dr.. Antonio Domínguez Vila,  Universidad de La Laguna
+62. Dra. Loreto Corredoira y Alfonso, Universidad Complutense de Madrid
 
-63. Prof. Dr. Josep Domingo-Ferrer, Universitat Rovira i Virgili
+63. Prof. Dr. Ulises Cortés, Universitat Politècnica de Catalunya
 
-64. Prof. Dr. Juan Carlos Dueñas López, Universidad Politécnica de Madrid
+64. Prof. Dr. Enrique Costa Montenegro, Universidade de Vigo
 
-65. Prof. Dr. Guillermo Escobar Roca, Universidad de Alcalá
+65. Prof. Dr. Lorenzo Cotino Hueso, Universidad de Valencia
 
-66. Prof Dr. Salvador España Boquera, Universitat Politècnica de València
+66. Dr. José M. Cotos Yáñez, Centro de Investigación en Tecnoloxías Intelixentes - Universidade de Santiago de Compostela
 
-67. Prof. Dr. Pere Fabra Abat, Universitat Oberta de Catalunya
+67. Prof. Dr. Félix Crespo Hellín, Universitat de Valencia
 
-68. Prof. Dr. Manuel José Fernández Iglesias, Universidade de Vigo 
+68. Prof. Dr. J. Ignacio Criado, Universidad Autónoma de Madrid
 
-69. Prof. Dr. Jesus Fernandez-Villaverde, University of Pennsylvania
+69. Prof. Dr. Iñigo Cuiñas, Universidade de Vigo
 
-70. Prof. Dra. Antonia Ferrer Sapena, Universitat Politècnica de València
+70. Prof. Dra. Vanesa Daza, Universitat Pompeu Fabra
 
-71. Prof. Dr. Dario Fiore, Instituto IMDEA Software
+71. Prof. Dra. Itziar de Lecuona, Observatori de Bioètica i Dret, Càtedra Unesco de Bioètica, Universitat de Barcelona
 
-72. Prof. Dr. José Fortes Gálvez, Universidad de Las Palmas de Gran Canaria
+72. Prof. Dra. Claudia Díaz, KU Leuven (Bélgica)
 
-73. Prof. Dr. José María de Fuentes , Universidad Carlos III de Madrid
+73. Prof. Dra. Paloma Díaz Pérez, Universidad Carlos III de Madrid
 
-74. Prof. Dr. Ramón Galindo Caldés, Universitat Oberta de Catalunya
+74. Prof. Dr. Juan Manuel Dodero Beardo, Universidad de Cádiz
 
-75. Prof. Dr. Domingo Gallardo López, Universidad de Alicante
+75. Prof. Dr.. Antonio Domínguez Vila, Universidad de La Laguna
 
-76. Prof. Dr. Eduardo Gamero Casado, Universidad Pablo de Olavide
+76. Prof. Dr. Josep Domingo-Ferrer, Universitat Rovira i Virgili
 
-77. Almudena García, Universidad de Huelva
+77. Prof. Dr. Juan Carlos Dueñas López, Universidad Politécnica de Madrid
 
-78. Helena García Cebollada, Instituto de Biocomputación y Física de Sistemas Complejos - Universidad de Zaragoza
+78. Prof. Dr. Guillermo Escobar Roca, Universidad de Alcalá
 
-79. Prof. Dra. María del Rosario García Mahamut - Universitat Jaume I
+79. Prof Dr. Salvador España Boquera, Universitat Politècnica de València
 
-80. Dr. Pablo Garcia Molina, Georgetown University (Estados Unidos)
+80. Prof. Dr. Pere Fabra Abat, Universitat Oberta de Catalunya
 
-81. Prof. Dr. Joaquín García-Alfaro, Institut Polytechnique de Paris (Francia) & Carleton University (Canadá)
+81. Prof. Dr. Manuel José Fernández Iglesias, Universidade de Vigo 
 
-82. Prof. Dr. Hector Geffner, Universitat Pompeu Fabra
+82. Prof. Dr. Jesus Fernandez-Villaverde, University of Pennsylvania
 
-83. Dr. Xavier Gironès García, Fundación Universitaria del Bages
+83. Prof. Dra. Antonia Ferrer Sapena, Universitat Politècnica de València
 
-84. Prof. Dr. Vicenç Gómez, Universitat Pompeu Fabra
+84. Prof. Dr. Dario Fiore, Instituto IMDEA Software
 
-85. Prof. Dr. Juan Antonio Gómez Pulido, Universidad de Extremadura
+85. Prof. Dr. José Fortes Gálvez, Universidad de Las Palmas de Gran Canaria
 
-86. Dr. David Gómez-Ullate Oteiza, Universidad de Cádiz
+86. Prof. Dr. José María de Fuentes , Universidad Carlos III de Madrid
 
-87. Prof. Dr. Jesús M. González Barahona, Universidad Rey Juan Carlos
+87. Prof. Dr. Ramón Galindo Caldés, Universitat Oberta de Catalunya
 
-88. Prof. Dr. Luis Miguel González de la Garza, Universidad Nacional de Educación a Distancia - UNED
+88. Prof. Dr. Domingo Gallardo López, Universidad de Alicante
 
-89. Prof. Dra. Gloria González Fuster, Vrije Universiteit Brussel (Bélgica)
+89. Prof. Dr. Eduardo Gamero Casado, Universidad Pablo de Olavide
 
-90. Prof. Dra. Lorena González Manzano, Universidad Carlos III de Madrid
+90. Almudena García, Universidad de Huelva
 
-91. Prof. Dra. Maria Isabel González Vasco, Universidad Rey Juan Carlos
+91. Helena García Cebollada, Instituto de Biocomputación y Física de Sistemas Complejos - Universidad de Zaragoza
 
-92. Prof. Dra. Alessandra Gorla, Instituto IMDEA Software
+92. Prof. Dra. María del Rosario García Mahamut - Universitat Jaume I
 
-93. Prof. Dr. Juan José Guardia Hernández, Universitat Internacional de Catalunya
+93. Dr. Pablo Garcia Molina, Georgetown University (Estados Unidos)
 
-94. Dr, Ariel Guersenzvaig, ELISAVA Escuela de Diseño e Ingeniería de Barcelona
+94. Prof. Dr. Joaquín García-Alfaro, Institut Polytechnique de Paris (Francia) & Carleton University (Canadá)
 
-95. Prof. Benjamín Guix Melcior, Universidad de Barcelona
+95. Prof. Dr. Hector Geffner, Universitat Pompeu Fabra
 
-96. Prof. Dr. Juan Carlos Hernández, Universidad de Navarra
+96. Dr. Xavier Gironès García, Fundación Universitaria del Bages
 
-97. Prof. Dr. Jose Hernandez-Orallo, Universitat Politécnica de Valencia
+97. Prof. Dr. Vicenç Gómez, Universitat Pompeu Fabra
 
-98. Prof. Dr. Antonio Hernández Pérez, Universidad Carlos III de Madrid
+98. Prof. Dr. Juan Antonio Gómez Pulido, Universidad de Extremadura
 
-99. Prof. Dr. Daniel Innerarity, Universidad del País Vasco & European University Institute of Florence
+99. Sergio Gómez Bachiller
 
-100. Hugo Jiménez Hernández, Barcelona Supercomputing Center
+100. Dr. David Gómez-Ullate Oteiza, Universidad de Cádiz
 
-101. Prof. Dr. Fco. Javier Jiménez Leube, Universidad Politécnica de Madrid
+101. Prof. Dr. Jesús M. González Barahona, Universidad Rey Juan Carlos
 
-102. Prof. Dr. Andrés Jiménez Ramírez, Universidad de Sevilla
+102. Prof. Dr. Luis Miguel González de la Garza, Universidad Nacional de Educación a Distancia - UNED
 
-103. Dr. Daniel Jiménez-González, Universitat Politècnica de Catalunya
+103. Prof. Dra. Gloria González Fuster, Vrije Universiteit Brussel (Bélgica)
 
-104. Dr. Marc Juarez, University of Southern California (Estados Unidos)
+104. Prof. Dra. Lorena González Manzano, Universidad Carlos III de Madrid
 
-105. Prof. Dr. Vicente Julian, Universitat Politècnica de València
+105. Prof. Dra. Maria Isabel González Vasco, Universidad Rey Juan Carlos
 
-106. Prof. Dr. Pedro Larrañaga, Universidad Politécnica de Madrid
+106. Prof. Dra. Alessandra Gorla, Instituto IMDEA Software
 
-107. Prof. Dr. Ramon López de Mántaras, Instituto de Investigación en Inteligencia Artificial - CSIC & Western Sydney University (Australia)
+107. Prof. Dr. Juan José Guardia Hernández, Universitat Internacional de Catalunya
 
-108. Dr. Álvaro López García, Consejo Superior de Investigaciones Científicas - CSIC
+108. Dr, Ariel Guersenzvaig, ELISAVA Escuela de Diseño e Ingeniería de Barcelona
 
-109. Prof. Dra. Maite López Sánchez, Universidad de Barcelona & Instituto de Investigación en Inteligencia Artificial - CSIC
+109. Prof. Benjamín Guix Melcior, Universidad de Barcelona
 
-110. Dr. Jorge Lozano Miralles, Universidad de Jaén
+110. Prof. Dr. Juan Carlos Hernández, Universidad de Navarra
 
-111. Dr. Miguel Luengo Oroz , Global Pulse ONU (Estados Unidos)
+111. Prof. Dr. Jose Hernandez-Orallo, Universitat Politécnica de Valencia
 
-112. Prof. Dr. Javier Macías Guarasa, Universidad de Alcalá
+112. Prof. Dr. Antonio Hernández Pérez, Universidad Carlos III de Madrid
 
-113. Dr. Jaume Manero Font, Universitat Politécnica de Catalunya
+113. Prof. Dr. Daniel Innerarity, Universidad del País Vasco & European University Institute of Florence
 
-114. Dr. David Martín de Diego, Instituto de Ciencias Matemáticas - CSIC
+114. Hugo Jiménez Hernández, Barcelona Supercomputing Center
 
-115. Prof. Dr. Sebastià Martín Molleví, Universitat Politècnica de Catalunya
+115. Prof. Dr. Fco. Javier Hormigo Aguilar, Universidad de Málaga
 
-116. Dr. José Luis Martínez Martínez, Universidad de Castilla-La Mancha
+116. Prof. Dr. Fco. Javier Jiménez Leube, Universidad Politécnica de Madrid
 
-117. Prof Dra. Alejandra Martínez Monés, Universidad de Valladolid
+117. Prof. Dr. Andrés Jiménez Ramírez, Universidad de Sevilla
 
-118. Prof. Dra. Pastora Martínez Samper, Universitat Oberta de Catalunya
+118. Dr. Daniel Jiménez-González, Universitat Politècnica de Catalunya
 
-119. Prof. Dr. David Martínez Zorrilla. Universitat Oberta de Catalunya
+119. Dr. Marc Juarez, University of Southern California (Estados Unidos)
 
-120. Prof. Manuel Medina Llinàs, Universitat Politècnica de Catalunya
+120. Prof. Dr. Vicente Julian, Universitat Politècnica de València
 
-121. Prof. Dra. Ernestina Menasalvas Ruiz, Universidad Politécnica de Madrid
+121. Prof. Dr. Pedro Larrañaga, Universidad Politécnica de Madrid
 
-122. Dr. Juan Julián Merelo Guervós, Universidad de Granada
+122. Prof. Dr. Ramon López de Mántaras, Instituto de Investigación en Inteligencia Artificial - CSIC & Western Sydney University (Australia)
 
-123. Javier Miranzo Díaz, Universitat Oberta de Catalunya 
+123. Dr. Álvaro López García, Consejo Superior de Investigaciones Científicas - CSIC
 
-124. Prof. Dr. Artemio Mojón Ojea, Universidade de Vigo
+124. Prof. Dra. Maite López Sánchez, Universidad de Barcelona & Instituto de Investigación en Inteligencia Artificial - CSIC
 
-125. Dr. José Molina Molina, Consejo de la Transparencia de la Región de Murcia & Universidad de Murcia
+125. Dr. Manuel López-Ibáñez, Universidad de Málaga
 
-126. Dr. José F. Morales, Instituto IMDEA Software
+126. Dr. Jorge Lozano Miralles, Universidad de Jaén
 
-127. Prof. Dr. Yamir Moreno, Universidad de Zaragoza
+127. Dr. Miguel Luengo Oroz , Global Pulse ONU (Estados Unidos)
 
-128. Prof. Dra. Mª Aránzazu Moretón Toquero, Universidad de Valladolid
+128. Prof. Dr. Javier Macías Guarasa, Universidad de Alcalá
 
-129. Dra. Melania Moscoso, Instituto de Filosofía - CSIC
+129. Dr. Jaume Manero Font, Universitat Politécnica de Catalunya
 
-130. Dr. Alfonso Muñoz, Universidad Politécnica de Madrid
+130. Dr. David Martín de Diego, Instituto de Ciencias Matemáticas - CSIC
 
-131. Prof. Dr. Vicente J. Navarro Marchante, Universidad La Laguna
+131. Dr. Cristian Martín Fernández  Universidad de Málaga
 
-132. Prof. Dra. Susana Navas Navarro. Universitat Autònoma de Barcelona
+132. Prof. Dr. Sebastià Martín Molleví, Universitat Politècnica de Catalunya
 
-133. Fernando Orejas, Universitat Politècnica de Catalunya
+133. Dr. José Luis Martínez Martínez, Universidad de Castilla-La Mancha
 
-134. Prof. Dr. Juan Luis Paniagua Soto, Universidad Complutense de Madrid
+134. Prof Dra. Alejandra Martínez Monés, Universidad de Valladolid
 
-135. Dr. José Antonio Parejo Maestre, Universidad de Sevilla
+135. Prof. Dra. Pastora Martínez Samper, Universitat Oberta de Catalunya
 
-136. Prof. Dr. José Parra-Moyano, Copenhagen Business School (Dinamarca)
+136. Prof. Dr. David Martínez Zorrilla. Universitat Oberta de Catalunya
 
-137. Prof. Dra. Encarnación Pastor Martín, Universidad Politécnica de Madrid 
+137. Prof. Manuel Medina Llinàs, Universitat Politècnica de Catalunya
 
-138. Prof. Dr. Sergio Pastrana Portillo, Universidad Carlos III de Madrid & University of Cambridge (Reino Unido)
+138. Prof. Dra. Ernestina Menasalvas Ruiz, Universidad Politécnica de Madrid
 
-139. Prof. Dr. Miquel Peguera, Universitat Oberta de Catalunya 
+139. Dr. Juan Julián Merelo Guervós, Universidad de Granada
 
-140. Prof. Dr. Josep Perelló, Universitat de Barcelona
+140. Javier Miranzo Díaz, Universitat Oberta de Catalunya 
 
-141. Prof. Dr. Ángel Pérez del Pozo, Universidad Rey Juan Carlos
+141. Prof. Dr. Artemio Mojón Ojea, Universidade de Vigo
 
-142. Prof. Dr. Fernando Pérez González, Universidade de Vigo
+142. Dr. José Molina Molina, Consejo de la Transparencia de la Región de Murcia & Universidad de Murcia
 
-143. Prof. Dr. Ernesto Pimentel, Universidad de Málaga
+143. Dr. José F. Morales, Instituto IMDEA Software
 
-144. Dr. Manuel Poch, Universitat de Girona
+144. Prof. Dr. Yamir Moreno, Universidad de Zaragoza
 
-145. Prof. Dr. Juli Ponce Solé, Universitat de Barcelona
+145. Prof. Dra. Mª Aránzazu Moretón Toquero, Universidad de Valladolid
 
-146. Dr. Manuel Portela, Universitat Pompeu Fabra
+146. Dra. Melania Moscoso, Instituto de Filosofía - CSIC
 
-147. Dr. José Ra. Portillo Fernández, Universidad de Sevilla
+147. Dr. Alfonso Muñoz, Universidad Politécnica de Madrid
 
-148. Dr. Alejandro Pozas Kerstjens, Universidad Complutense de Madrid
+148. Prof. Dr. Vicente J. Navarro Marchante, Universidad La Laguna
 
-149. Prof. Dr. Joan Manuel del Pozo Álvarez, Universitat de Girona
+149. Prof. Dra. Susana Navas Navarro. Universitat Autònoma de Barcelona
 
-150. Dr. Miguel Ángel Presno Linera, Universidad de Oviedo
+150. Fernando Orejas, Universitat Politècnica de Catalunya
 
-151. Prof. Dra. Francisca Ramón Fernández, Universitat Politècnica de València
+151. Prof. Dr. Juan Luis Paniagua Soto, Universidad Complutense de Madrid
 
-152. Dra. Leonor Rams Ramos, Universidad Rey Juan Carlos 
+152. Dr. José Antonio Parejo Maestre, Universidad de Sevilla
 
-153. Prof. Dr. Miguel Rebollo Pedruelo. Universitat Politècnica de València
+153. Prof. Dr. José Parra-Moyano, Copenhagen Business School (Dinamarca)
 
-154. Prof. Dr. Josep Redon, INCLIVA Instituto de Investigación Sanitaria & Universidad de Valencia
+154. Prof. Dra. Encarnación Pastor Martín, Universidad Politécnica de Madrid 
 
-155. Prof. Dra. Helena Rifà-Pous, Universitat Oberta de Catalunya
+155. Prof. Dr. Sergio Pastrana Portillo, Universidad Carlos III de Madrid & University of Cambridge (Reino Unido)
 
-156. Prof. Dr. David Ríos Insua, Real Academia de Ciencias Exactas, Físicas y Naturales
+156. Prof. Dr. Miquel Peguera, Universitat Oberta de Catalunya 
 
-157. Prof. Agustín Riscos Núñez, Universidad de Sevilla
+157. Prof. Dr. Josep Perelló, Universitat de Barcelona
 
-158. Prof. Dr. Gregorio Robles, Universidad Rey Juan Carlos
+158. Prof. Dr. Ángel Pérez del Pozo, Universidad Rey Juan Carlos
 
-159. Prof. Aníbal Rodríguez Bernal, Universidad Complutense de Madrid
+159. Prof. Dr. Fernando Pérez González, Universidade de Vigo
 
-160. Prof. Dr. Miguel Rodríguez Pérez, Universidade de Vigo
+160. Prof. Dr. Ernesto Pimentel, Universidad de Málaga
 
-161. Prof. Dra. María del Carmen Romero Ternero, Universidad de Sevilla
+161. Dr. Manuel Poch, Universitat de Girona
 
-162. Prof. Dr. Antoni Rubí Puig, Universitat Pompeu Fabra
+162. Prof. Dr. Juli Ponce Solé, Universitat de Barcelona
 
-163. Prof. Dr. Agustín Ruiz Robledo, Universidad de Granada
+163. Dr. Manuel Portela, Universitat Pompeu Fabra
 
-164. Dr. Javier Ruiz Soler, Simon Fraser University (Canadá)
+164. Dr. José Ra. Portillo Fernández, Universidad de Sevilla
 
-165. Prof. Dra. Eva Sáenz Royo, Universidad de Zaragoza
+165. Dr. Alejandro Pozas Kerstjens, Universidad Complutense de Madrid
 
-166. Prof. Dr. Manuel Sánchez de Diego Fdez. de la Riva, Universidad Complutense de Madrid
+166. Prof. Dr. Joan Manuel del Pozo Álvarez, Universitat de Girona
 
-167. Prof. Dr. Ángel J. Sánchez Navarro, Universidad Complutense
+167. Dr. Miguel Ángel Presno Linera, Universidad de Oviedo
 
-168. Dr. Javier Sánchez-Monedero. Cardiff University (Gales, Reino Unido)
+168. Prof. Dra. Francisca Ramón Fernández, Universitat Politècnica de València
 
-169. Prof. Dr. José Miguel Santos Espino, Universidad de Las Palmas de Gran Canaria
+169. Dra. Leonor Rams Ramos, Universidad Rey Juan Carlos 
 
-170. Prof. Dr. Joaquín Sarrión Esteve, Universidad Nacional de Educación a Distancia - UNED
+170. Prof. Dr. Miguel Rebollo Pedruelo. Universitat Politècnica de València
 
-171. Prof. Dr. Sergio Segura Rueda, Universidad de Sevilla
+171. Prof. Dr. Josep Redon, INCLIVA Instituto de Investigación Sanitaria & Universidad de Valencia
 
-172. Prof. Dra. Isabel Serrano Maiilo, Universidad Complutense de Madrid.
+172. Prof. Dra. Helena Rifà-Pous, Universitat Oberta de Catalunya
 
-173. Prof. Dr. Carles Sierra, Instituto de Investigación en Inteligencia Artificial - CSIC
+173. Prof. Dr. David Ríos Insua, Real Academia de Ciencias Exactas, Físicas y Naturales
 
-174. Prof. Dr. Javier Sierra Rodríguez, Universidad de Murcia
+174. Prof. Agustín Riscos Núñez, Universidad de Sevilla
 
-175. Prof. Dr. Josep Silva Galiana, Universitat Politècnica de València
+175. Prof. Dr. Gregorio Robles, Universidad Rey Juan Carlos
 
-176. Prof. Dr. Pere Simón Castellano, Universidad Internacional de la Rioja - UNIR
+176. Prof. Aníbal Rodríguez Bernal, Universidad Complutense de Madrid
 
-177. Prof. Dr. Enrique Soriano-Salvador, Universidad Rey Juan Carlos
+177. Dr. Pedro S. Rodríguez Hernández, Universidade de Vigo
 
-178. Prof. Dr. Luc Steels, Institut de Biologia Evolutiva, UPF-CSIC
+178. Prof. Dr. Miguel Rodríguez Pérez, Universidade de Vigo
 
-179. Prof. Dr. Guillermo Suarez-Tangil, King’s College London (Reino Unido) & Instituto IMDEA Networks
+179. Prof. Dra. María del Carmen Romero Ternero, Universidad de Sevilla
 
-180. Prof. Dra. Sílvia Suñer Lázaro, Universitat Politècnica de Catalunya
+180. Prof. Dr. Antoni Rubí Puig, Universitat Pompeu Fabra
 
-181. Prof. Dr. Juan Tapiador, Universidad Carlos III de Madrid
+181. Prof. Dr. Agustín Ruiz Robledo, Universidad de Granada
 
-182. Prof. Dr. Marc Tarrés Vives, Universitat de Barcelona
+182. Dr. Javier Ruiz Soler, Simon Fraser University (Canadá)
 
-183. Prof. Dra. Carme Torras, Institut de Robòtica i Informàtica Industrial, UPC-CSIC
+183. Prof. Dra. Eva Sáenz Royo, Universidad de Zaragoza
 
-184. Prof. Dra. Blanca Torrubia Chalmeta, Universitat Oberta de Catalunya
+184. Prof. Dr. Manuel Sánchez Angulo, Universidad Miguel Hernández de Elche
 
-185. Dr. Pablo Trinidad Martín-Arroyo, Universidad de Sevilla
+185. Prof. Dr. Manuel Sánchez de Diego Fdez. de la Riva, Universidad Complutense de Madrid
 
-186. Prof. Dra. Carmela Troncoso, École Polytechnique Fédérale de Lausanne (Suiza)
+186. Prof. Dr. Ángel J. Sánchez Navarro, Universidad Complutense
 
-187. Dra. Ana Valdivia, King's College London (Reino Unido)
+187. Dr. Javier Sánchez-Monedero. Cardiff University (Gales, Reino Unido)
 
-188. Prof. Dr. Gerardo Valeiras, Universidad de Sevilla
+188. Prof. Dr. José Miguel Santos Espino, Universidad de Las Palmas de Gran Canaria
 
-189. Prof. Dr. Narseo Vallina-Rodriguez, Instituto IMDEA Networks
+189. Prof. Dr. Joaquín Sarrión Esteve, Universidad Nacional de Educación a Distancia - UNED
 
-190. Prof. Dr. Julián Valero Torrijos, Universidad de Murcia
+190. Dra. Laura Sebastiá Tarin, Universitat Politècnica de València
 
-191. Prof. Dr. Juan Manuel Vara Mesa, Universidad Rey Juan Carlos
+191. Prof. Dra. Encarnación Segarra Soriano, Universitat Politècnica de València
 
-192. Prof. Dra. Victoria Velasco, Universidad de Granada
+192. Prof. Dr. Sergio Segura Rueda, Universidad de Sevilla
 
-193. Prof. Dra. Clara Velasco Rico, Universitat Pompeu Fabra
+193. Prof. Dra. Isabel Serrano Maiilo, Universidad Complutense de Madrid.
 
-194. Prof. Dr. José Luis Verdegay, Universidad de Granada
+194. Prof. Dr. Carles Sierra, Instituto de Investigación en Inteligencia Artificial - CSIC
 
-195. Dr. Víctor Vicente Palacios, Universidad de Salamanca
+195. Prof. Dr. Javier Sierra Rodríguez, Universidad de Murcia
 
-196. Prof. Dr. Germán Vidal, Universitat Politècnica de València
+196. Prof. Dr. Josep Silva Galiana, Universitat Politècnica de València
 
-197. Prof. Dra. Mònica Vilasau Solana, Universitat Oberta de Catalunya
+197. Prof. Dr. Pere Simón Castellano, Universidad Internacional de la Rioja - UNIR
 
-198. Prof. Dra. Raquel Xalabarder, Universitat Oberta de Catalunya
+198. Prof. Dr. Enrique Soriano-Salvador, Universidad Rey Juan Carlos
 
-199. Prof. Dr. Sebastià Xambó Descamps, Universitat Politècnica de Catalunya
+199. Prof. Dr. Luc Steels, Institut de Biologia Evolutiva, UPF-CSIC
 
-200. Dr. Urko Zurutuza, Mondragon Unibertsitatea
+200. Prof. Dr. Guillermo Suarez-Tangil, King’s College London (Reino Unido) & Instituto IMDEA Networks
+
+201. Prof. Dra. Sílvia Suñer Lázaro, Universitat Politècnica de Catalunya
+
+202. Prof. Dr. Juan Tapiador, Universidad Carlos III de Madrid
+
+203. Prof. Dr. Marc Tarrés Vives, Universitat de Barcelona
+
+204. Prof. Núria Terribas Sala, Càtedra de Bioètica - Universitat de Vic - Universitat Central de Catalunya
+
+205. Prof. Dra. Carme Torras, Institut de Robòtica i Informàtica Industrial, UPC-CSIC
+
+206. Prof. Dra. Blanca Torrubia Chalmeta, Universitat Oberta de Catalunya
+
+207. Dr. Pablo Trinidad Martín-Arroyo, Universidad de Sevilla
+
+208. Prof. Dra. Carmela Troncoso, École Polytechnique Fédérale de Lausanne (Suiza)
+
+209. Dra. Ana Valdivia, King's College London (Reino Unido)
+
+210. Prof. Dr. Gerardo Valeiras, Universidad de Sevilla
+
+211. Prof. Dr. Narseo Vallina-Rodriguez, Instituto IMDEA Networks
+
+212. Prof. Dr. Antonio Vallecillo, Universidad de Málaga
+
+213. Prof. Dr. Julián Valero Torrijos, Universidad de Murcia
+
+214. Prof. Dr. Juan Manuel Vara Mesa, Universidad Rey Juan Carlos
+
+215. Prof. Dra. Victoria Velasco, Universidad de Granada
+
+216. Prof. Dra. Clara Velasco Rico, Universitat Pompeu Fabra
+
+217. Prof. Dr. José Luis Verdegay, Universidad de Granada
+
+218. Dr. Víctor Vicente Palacios, Universidad de Salamanca
+
+219. Prof. Dr. Germán Vidal, Universitat Politècnica de València
+
+220. Prof. Dra. Mònica Vilasau Solana, Universitat Oberta de Catalunya
+
+221. Prof. Dr. Rafael Villa Caro, Universidad de Sevilla
+
+222. Prof. Dr. Emilio Vivancos, Rubio Universitat Politècnica de València
+
+223. Prof. Dra. Raquel Xalabarder, Universitat Oberta de Catalunya
+
+224. Prof. Dr. Sebastià Xambó Descamps, Universitat Politècnica de Catalunya
+
+225. Dr. Urko Zurutuza, Mondragon Unibertsitatea
 
 <hr>
 
